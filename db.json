@@ -1,0 +1,121 @@
+{
+    "bg": "https://cdn.pixabay.com/photo/2015/11/18/21/21/northeast-brazil-1049943_1280.jpg",
+    "title": "Quiz CSS da Alura",
+    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/SY96evRflae6VwpBhn/giphy.gif",
+        "title": "Você acha que conhece o nordeste?",
+        "description": "Então qual e o significado da palavra 'GAZEAR'",
+        "answer": 1,
+        "alternatives": [
+          "E um gênero de mamíferos bovídeos",
+          "Faltar na aula ou trabalho, dar cano, vadiar",
+          "Um medicamento caseiro",
+          "Nenhuma das alternativas"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/VyOxM0WtlPKCxZxWKA/giphy.gif",
+        "title": "Na expressão nordestina",
+        "description": "O que queremos dizer, quando falamos estou 'LISO'",
+        "answer": 2,
+        "alternatives": [
+           "Estou ensaboado",
+           "Estar passando por dificuldade de saúde",
+           "Não tenho dinheiro, não há um R$ 1 no bolso",
+           "Nenhuma das alternativas"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/XaGBHLKBQ4TiuKVCc1/giphy.gif",
+        "title": "Há qual das alternativas se refere a expressão abaixo?",
+        "description": "'MALAMANHADO'",
+        "answer": 0,
+        "alternatives": [
+           "Mal vestido, desarrumado, sem vestimenta adequada",
+           "Algo ou alguém, que esteja em uma situação de risco",
+           "Nenhuma das alternativas"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/fsRlqANbRePGfw7XUI/giphy.gif",
+        "title": "Há que se refere a expressão abaixo?",
+        "description": "Nó cego",
+        "answer": 0,
+        "alternatives": [
+           "Situação complicada, sujeito enrolado",
+           "Geralmente refere-se a um nó, em uma corda/barbante",
+           "Nenhuma das alternativas"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/jUPj7MUMFQx9cWigIx/giphy.gif",
+        "title": "Qual o significado da expressão Imburacar?",
+        "description": "Acha que conhece o nordeste? Então responde ai!",
+        "answer": 2,
+        "alternatives": [
+           "Armazenar água em reservatórios denominado como buraco",
+           "Animais ou pessoas que fazem buraco no chão para alguma finalidade",
+           "Entrar sem pedir permisão, sem ser convidado.",
+           "Nenhuma das alternativas"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/KbN1RAVDGLW2uueNWV/giphy.gif",
+        "title": "O que se refere a expressão abaixo?",
+        "description": "Cavalo-do-cão",
+        "answer": 1,
+        "alternatives": [
+           "Um animal ou inseto que contém veneno.",
+           "A pessoa que se acha mais do que é, e se propõe ser/fazer tudo",
+           "Nenhuma das alternativas"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/hWS5Dlo2LH6CzhStzL/giphy.gif",
+        "title": "O que você consegue imaginar da expressão abaixo na linguagem nordestina?",
+        "description": "Massa",
+        "answer": 2,
+        "alternatives": [
+           "Uma substancia usada no preparo de um alimento expecifico",
+           "Um conceito utilizado através de descobrimentos na região local.",
+           "Algo bom, de primeira qualidade.",
+           "Nenhuma das alternativas"
+        ]
+      }
+      ,
+      {
+        "image": "https://media.giphy.com/media/TA3yUOkA82QakflQ8v/giphy.gif",
+        "title": "Qual o significado da expresão abaixo?",
+        "description": "Brenha",
+        "answer": 1,
+        "alternatives": [
+           "Brenha e o nome de uma pessoa muito importante do final do seculo IX.",
+           "Lugar de difícil acesso, matagal, distante.",
+           "Nenhuma das alternativas"
+        ]
+      }
+    ],
+    "external": [
+      "https://quiz-imersao-react.olucasalves.vercel.app/",
+      "https://dontstarvetogether-base.lucaserlerpereira.vercel.app/",
+      "https://alura-quiz-avengers.fernanda-kipper.vercel.app/",
+      "https://wanda-vision-aluraquiz.marilira.vercel.app/"
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#0d47a1",
+        "secondary": "#29b6f6",
+        "mainBg": "#171B35",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50",
+        "orange": "#FFA500",
+        "darkOrange": "#FF8C00",
+        "lemon": "#00FF00",
+        "tomato": "#FF6347"
+      },
+      "borderRadius": "10px"
+    }
+  }
